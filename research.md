@@ -14,7 +14,6 @@ From Sep. 2016 to Sep. 2018, I was a post-doc in the <a href="http://www.altschu
 <a href="http://cbio.ensmp.fr/~twalter/">Thomas Walter</a>, and the direction of <a href="https://t3s-1124.biomedicale.parisdescartes.fr/">Robert Barouki</a>
  and <a href="http://cbio.ensmp.fr/~jvert/">Jean-Philippe Vert</a> at the Center of Computational Biology (<a href="http://www.mines-paristech.fr/">Mines ParisTech</a>, Paris, France).
 
-<p> Prior to that, I attended the _Ingénieur Polytechnicien_ program (BS/MS) at <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a> (Palaiseau, France), following 14 graduate-level courses in Computer science, Mathematics and Cell biology (X2007).
-</p>
+Prior to that, I attended the _Ingénieur Polytechnicien_ program (BS/MS) at <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a> (Palaiseau, France), following 14 graduate-level courses in Computer science, Mathematics and Cell biology (X2007).
 
 ### [Publications and talks](publications.md)
