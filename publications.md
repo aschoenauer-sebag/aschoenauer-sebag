@@ -37,8 +37,8 @@ Schoenauer Sebag, A.,  Plancade S., Raulet-Tomkiewicz C., Barouki R., Vert J.-P.
 <ul>
 <li>November 2017: <a href="https://www.stat.berkeley.edu/~sandrine/Teaching/PH295.F17/"><i>UC Berkeley Statistics and Genomics Seminar</i></a> (Berkeley (CA), USA).</li>
 <li>July 2015: conference <a href="http://www.iscb.org/ismbeccb2015"><i>ISMB/ECCB</i></a> (Dublin, Ireland).</li>
-<li>October 2014: conference <a href="http://www.vibconferences.be/event/bioimage-informatics"><i>Bioimage Informatics</i></a> (Leuven, Belgium).</li>
-<li>December 2013: <a href="http://wimlworkshop.dreamhosters.com/">Women in Machine Learning</a> workshop (Lake Tahoe (NV), USA).</li>
+<li>October 2014: conference <a href="http://www.vib.be/en/about-vib/bioimageinformatics2014/Pages/default.aspx"><i>Bioimage Informatics</i></a> (Leuven, Belgium).</li>
+<li>December 2013: <a href="https://wimlworkshop.org/about-wiml-workshop/">Women in Machine Learning</a> workshop (Lake Tahoe (NV), USA).</li>
 <li>June 2013: annual meeting of the French <a href="http://www.aret.asso.fr/">Association for Research in Toxicology</a> (Paris, France).</li>
 </ul>
 
@@ -53,6 +53,7 @@ Schoenauer Sebag, A.,  Plancade S., Raulet-Tomkiewicz C., Barouki R., Vert J.-P.
 <li>May 2014: conference <a href="http://yrls.fr/"><i>Young Researchers in Life Sciences</i></a> (Paris, France).
 <li>December 2013: <a href="https://mlcb.github.io/"><i>Machine Learning in Computational Biology workshop</i></a>, NIPS conference (Lake Tahoe (NV), USA).
 </ul>
+
 
 ## Others
 <ul>
