@@ -8,4 +8,4 @@ I defended my PhD of Bioinformatics in December 2015 (CBIO, [Mines ParisTech](ht
 
 From September 2016 to October 2018, I was a post-doctoral scholar in the [Wu and Altschuler lab](http://www.altschulerwulab.org) (UCSF), where I focused on how to perform multi-domain learning on high-throughput image-based drug screens. Our work was the first to investigate how to combine images from multiple microscopy experiments/laboratories, and was accepted at ICLR'19 ([manuscript](https://openreview.net/forum?id=Sklv5iRqYX)).
 
-Between my PhD and my post-doc, I had the chance to develop machine learning approaches for challenging real world problems and data related to insurance fraud detection at [Shift technology](http://www.shift-technology.com/).
+Between my PhD and my post-doc, I developed machine learning approaches for challenging real world problems and data related to insurance fraud detection at [Shift technology](http://www.shift-technology.com/).

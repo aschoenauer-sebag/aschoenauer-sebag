@@ -1,11 +1,9 @@
-### A detailed resume with publications: in [English](assets/cv_am.pdf) and in [French](assets/cv_fr.pdf).
-
 ## Research interests
 <p>During my PhD and post-doc, I focused on representation learning and outlier detection in high-content high-throughput image-based screens, using both classical and deep learning approaches. These screens can be drug screens, genomic screens, or environmental contaminant screens.
-    The common principle is that cells are exposed to thousands of perturbations in parallel, following what fluorescence images are acquired.
-    <br>
-    On top of detecting novel compounds, I developed methods to answer more sophisticated questions, such as how to combine images from multiple microscopy experiments/laboratories. How does one
-    perform multi-domain learning on high-content high-throughput screening data?
+The common principle is that cells are exposed to thousands of perturbations in parallel, following what fluorescence images are acquired.
+<br>
+On top of detecting novel compounds, I developed methods to answer more sophisticated questions, such as how to combine images from multiple microscopy experiments/laboratories. How does one
+perform multi-domain learning on high-content high-throughput screening data?
 </p>
 
 ## Academic training

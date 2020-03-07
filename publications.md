@@ -1,5 +1,3 @@
-### A detailed resume with publications: in [English](assets/cv_am.pdf) and in [French](assets/cv_fr.pdf).
-
 ## Publications
 - <b>Multi-domain adversarial learning</b><br>
 Schoenauer Sebag, A., Heinrich, L.,  Schoenauer M., Sebag M., Wu, L. and Altschuler, S. (2019) <br>
