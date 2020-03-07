@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Chief data scientist of the [_Inspection générale des finances_](http://www.igf.finances.gouv.fr/cms/sites/igf/accueil/igf-in-brief.html)
 
-You can use the [editor on GitHub](https://github.com/aschoenauer-sebag/aschoenauer-sebag/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In February 2019, I joined the [Inspection générale des finances](http://www.igf.finances.gouv.fr/cms/sites/igf/accueil/igf-in-brief.html) as chief data scientist, where I started the data science practice. The _Inspection_ is the French governement general auditing service, performing circa 100 missions per year for public policy evaluation, strategic decision making and expert commission assistance. My team complements traditional approaches with ML and econometrics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Quick bio
 
-### Markdown
+I defended my PhD of Bioinformatics in December 2015 (CBIO, [Mines ParisTech](http://www.mines-paristech.fr/)), after three years under the supervision of [Thomas Walter](http://cbio.ensmp.fr/~twalter/), and the direction of [Robert Barouki](http://www.biomedicale.univ-paris5.fr/UMR-S_747/index_061.htm) and [Jean-Philippe Vert](http://cbio.ensmp.fr/~jvert/). During my PhD, I was interested in applying computer vision and machine learning methods to video-microscopy data. My research focused on the development of tools for automatic and quantitative characterization of cellular dynamic processes from video-microscopy data, following chemical exposure.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From September 2016 to October 2018, I was a post-doctoral scholar in the [Wu and Altschuler lab](http://www.altschulerwulab.org) (UCSF), where I focused on how to perform multi-domain learning on high-throughput image-based drug screens. Our work was the first to investigate how to combine images from multiple microscopy experiments/laboratories, and was accepted at ICLR'19 ([manuscript](https://openreview.net/forum?id=Sklv5iRqYX)).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aschoenauer-sebag/aschoenauer-sebag/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Between my PhD and my post-doc, I had the chance to develop machine learning approaches for challenging real world problems and data related to insurance fraud detection at [Shift technology](http://www.shift-technology.com/).
