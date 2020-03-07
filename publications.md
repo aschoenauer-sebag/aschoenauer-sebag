@@ -1,4 +1,4 @@
-A detailed resume with publications: in [English](assets/cv_am.pdf) and in [French](assets/cv_fr.pdf).
+### A detailed resume with publications: in [English](assets/cv_am.pdf) and in [French](assets/cv_fr.pdf).
 
 ## Publications
 - <b>Multi-domain adversarial learning</b><br>

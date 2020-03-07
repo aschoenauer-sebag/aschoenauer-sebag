@@ -1,4 +1,4 @@
-A detailed resume with publications: in [English](assets/cv_am.pdf) and in [French](assets/cv_fr.pdf).
+### A detailed resume with publications: in [English](assets/cv_am.pdf) and in [French](assets/cv_fr.pdf).
 
 ## Research interests
 <p>During my PhD and post-doc, I focused on representation learning and outlier detection in high-content high-throughput image-based screens, using both classical and deep learning approaches. These screens can be drug screens, genomic screens, or environmental contaminant screens.
