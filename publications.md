@@ -2,7 +2,6 @@ A detailed resume with publications: in [English](assets/cv_am.pdf) and in [Fren
 
 ## Publications
 <ul>
-
 <li><b>Multi-domain adversarial learning</b><br>
 Schoenauer Sebag, A., Heinrich, L.,  Schoenauer M., Sebag M., Wu, L. and Altschuler, S. (2019) <br>
 <i>International Conference on Learning Representations</i>.
@@ -30,7 +29,6 @@ Schoenauer Sebag, A.,  Plancade S., Raulet-Tomkiewicz C., Barouki R., Vert J.-P.
 <li> <b>Infering an ontology of single cell motions from high-throughput microscopy data.</b> <br> 
 Schoenauer Sebag, A.,  Plancade S., Raulet-Tomkiewicz C., Barouki R., Vert J.-P. and Walter, T. (2015) <br> 
 <i>Proceedings of the 12th IEEE International Symposium on Biomedical Imaging (ISBI 2015): 160--163</i>. Brooklyn (NY), USA. </li>
-
 </ul>
 
 ## Talks
@@ -61,3 +59,5 @@ Schoenauer Sebag, A.,  Plancade S., Raulet-Tomkiewicz C., Barouki R., Vert J.-P.
 <li>2013, 2014, 2015: participation to <a href="http://www.systemsmicroscopy.eu/"><i>Systems microscopy</i> Network of excellence</a> annual meetings.</li>
 <li>2013: participation to the <a href="http://mlss.tuebingen.mpg.de/2013/index.html"><i>Machine Learning Summer School</i></a> (Tübingen, Germany).</li>
 </ul>
+
+
