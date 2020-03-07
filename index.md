@@ -1,6 +1,6 @@
 ## Chief data scientist of the [_Inspection générale des finances_](https://en.wikipedia.org/wiki/Inspection_g%C3%A9n%C3%A9rale_des_finances_(France))
 
-In February 2019, I joined the [Inspection générale des finances](https://en.wikipedia.org/wiki/Inspection_g%C3%A9n%C3%A9rale_des_finances_(France)) as chief data scientist, where I started the data science practice. The _Inspection_ is the French governement general auditing service, performing circa 100 missions per year for public policy evaluation, strategic decision making and expert commission assistance. My team complements traditional approaches with ML and econometrics.
+In February 2019, I joined the [Inspection générale des finances](https://en.wikipedia.org/wiki/Inspection_g%C3%A9n%C3%A9rale_des_finances_(France)) as chief data scientist, and started the data science practice. The _Inspection_ is the French governement general auditing service, performing circa 100 missions per year for public policy evaluation, strategic decision making and expert commission assistance. My team complements traditional approaches with ML and econometrics.
 
 ## Quick bio
 
