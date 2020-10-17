@@ -1,11 +1,12 @@
 ## Chief data scientist of the [_Inspection générale des finances_](https://en.wikipedia.org/wiki/Inspection_g%C3%A9n%C3%A9rale_des_finances_(France))
 
 In February 2019, I joined the [Inspection générale des finances](https://en.wikipedia.org/wiki/Inspection_g%C3%A9n%C3%A9rale_des_finances_(France)) as chief data scientist, and started the data science practice. The _Inspection_ is the French governement general auditing service, performing circa 100 missions per year for public policy evaluation, strategic decision making and expert commission assistance. My team complements traditional approaches with ML and econometrics.
-Since its creation, we grew from one to four persons, and assisted more than 20 projects.
+Since its creation, I grew the team from one to four people; we participated in over 20 projects.
 
-More info:
-- [press article](assets/articleJan2020_ActeursPublics.pdf) in *Acteurs publics* (in French) ;
-- in October 2020 I was invited to a [debate](https://www.acteurspublics.fr/webtv/emissions/les-rencontres-des-acteurs-publics/debat-comment-les-donnees-publiques-peuvent-elles-appuyer-levaluation) about data-driven public policy evaluation (in French). 
+More info (in French):
+- 2019 [activity report](http://www.igf.finances.gouv.fr/files/live/sites/igf/files/contributed/IGF%20internet/4.RapportsDactivites/ra-igf-2019-web.pdf) of the *Inspection* (p. 21);
+- January 2020: [press article](assets/articleJan2020_ActeursPublics.pdf) in *Acteurs publics*;
+- in October 2020 I was invited to a [debate](https://www.acteurspublics.fr/webtv/emissions/les-rencontres-des-acteurs-publics/debat-comment-les-donnees-publiques-peuvent-elles-appuyer-levaluation) about the use of public data for public policy evaluation. 
 
 ## Quick bio
 
