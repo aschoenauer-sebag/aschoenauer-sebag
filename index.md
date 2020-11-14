@@ -1,7 +1,7 @@
 ## Chief data scientist of the [_Inspection générale des finances_](https://en.wikipedia.org/wiki/Inspection_g%C3%A9n%C3%A9rale_des_finances_(France))
 
-In February 2019, I joined the [Inspection générale des finances](https://en.wikipedia.org/wiki/Inspection_g%C3%A9n%C3%A9rale_des_finances_(France)) as chief data scientist, and started the data science practice. The _Inspection_ is the French governement general auditing service, performing circa 100 missions per year for public policy evaluation, strategic decision making and expert commission assistance. My team complements traditional approaches with ML and econometrics.
-Since its creation, I grew the team from one to four people; we participated in over 20 projects.
+In February 2019, I joined the [Inspection générale des finances](https://en.wikipedia.org/wiki/Inspection_g%C3%A9n%C3%A9rale_des_finances_(France)) (French Ministry for the Economy and Finance) to launch the data science practice. The Inspection is France’s general consulting service, performing circa 100 missions per year for public policy evaluation, strategic decision making and expert commission assistance. My team complements traditional approaches with ML and econometrics. 
+Since its creation, I grew the team from one to five people; we participated in over 20 projects.
 
 More info (in French):
 - 2019 [activity report](http://www.igf.finances.gouv.fr/files/live/sites/igf/files/contributed/IGF%20internet/4.RapportsDactivites/ra-igf-2019-web.pdf) of the *Inspection* (p. 21);
@@ -14,4 +14,4 @@ I defended my PhD of Bioinformatics in December 2015 (CBIO, [Mines ParisTech](ht
 
 From September 2016 to October 2018, I was a post-doctoral scholar in the [Wu and Altschuler lab](http://www.altschulerwulab.org) (UCSF), where I focused on how to perform multi-domain learning on high-throughput image-based drug screens. Our work was the first to investigate how to combine images from multiple microscopy experiments/laboratories, and was accepted at ICLR'19 ([manuscript](https://openreview.net/forum?id=Sklv5iRqYX)).
 
-Between my PhD and my post-doc, I developed machine learning approaches for challenging real world problems and data related to insurance fraud detection at [Shift technology](http://www.shift-technology.com/).
+Between my PhD and my post-doc, I seconded the CSO in starting the R&D team and building the Healthcare product at [Shift technology](http://www.shift-technology.com/). The company has since then grown from 20 to over 250 employees and raised €88M total, to fight insurance fraud and automate insurance claims.
