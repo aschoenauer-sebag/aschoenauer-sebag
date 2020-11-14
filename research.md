@@ -1,4 +1,4 @@
-## Research interests
+## Research
 <p>During my PhD and post-doc, I focused on representation learning and outlier detection in high-content high-throughput image-based screens, using both classical and deep learning approaches. These screens can be drug screens, genomic screens, or environmental contaminant screens.
 The common principle is that cells are exposed to thousands of perturbations in parallel, following what fluorescence images are acquired.
 <br>
